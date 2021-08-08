@@ -17,7 +17,7 @@
     "@nuxtjs/pwa": "^3.0.2",
     "apollo-server-lambda": "^2.23.0",
     "core-js": "^3.6.5",
-    "fitty": "^2.3.3",
+    "fitty": "^2.3.5",
     "graphql": "^15.4.0",
     "nuxt": "^2.14.6",
     "nuxt-graphql-request": "^3.2.0",
