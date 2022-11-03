@@ -68,6 +68,12 @@ export default {
         'data-beampipe-domain':
           process.env.BEAMPIPE_DOMAIN || 'filippobovo.com',
       },
+      {
+        src: 'https://app.tinyanalytics.io/pixel/bBgrhukRQyTVBtnn',
+        body: false,
+        async: true,
+        defer: true,
+      },
     ],
     __dangerouslyDisableSanitizers: ['noscript'],
   },
