@@ -21,7 +21,7 @@
     "graphql": "^15.8.0",
     "nuxt": "^2.15.8",
     "nuxt-graphql-request": "^3.2.0",
-    "vue-frag": "^1.4.1",
+    "vue-frag": "^1.4.3",
     "vue-scrollactive": "^0.9.3"
   },
   "devDependencies": {
