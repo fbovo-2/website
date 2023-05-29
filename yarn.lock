@@ -12955,10 +12955,10 @@ vue-eslint-parser@^7.0.0:
     lodash "^4.17.21"
     semver "^6.3.0"
 
-vue-frag@^1.4.1:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/vue-frag/-/vue-frag-1.4.1.tgz#c0c2e633ce36b0b5eb8373c539c90d3bab25a7f8"
-  integrity sha512-1EAPTI/F6huKp8U7lgjCDT119mrJgjrsNJY0j4MD+mNAVqE9LyIBXuWlMpPTFiTH45XDEhiKa4UZoUoW8V72Jg==
+vue-frag@^1.4.3:
+  version "1.4.3"
+  resolved "https://registry.yarnpkg.com/vue-frag/-/vue-frag-1.4.3.tgz#ae207e2f9ca05fb40786582d30705c8f840cdfb6"
+  integrity sha512-pQZj03f/j9LRhzz9vKaXTCXUHVYHuAXicshFv76VFqwz4MG3bcb+sPZMAbd0wmw7THjkrTPuoM0EG9TbG8CgMQ==
 
 vue-hot-reload-api@^2.3.0:
   version "2.3.4"
